@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there <img src="https://icons-for-free.com/download-icon-kenobi+jedi+obi+++wan+kenobi+star+wars+icon-1320166750126849595_512.png" width="20" height="20">
+
 <div align="justify">
 
 I've recently graduated from my __Software Engineering__ degree from [Intituto Tecnológico de Sonora](https://www.itson.mx/Paginas/index.aspx). My main language is __Spanish__, but I also know __English__. I mainly work as __Backend Developer__,  particularly in Django/FastAPI frameworks.
