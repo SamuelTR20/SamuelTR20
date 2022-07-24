@@ -2,6 +2,8 @@
 
 <div align="justify">
 
+My name is Samuel Torres, I am 22 years old from Sonora, México 
+
 I've recently graduated from my __Software Engineering__ degree from [Intituto Tecnológico de Sonora](https://www.itson.mx/Paginas/index.aspx). My main language is __Spanish__, but I also know __English__. I mainly work as __Backend Developer__,  particularly in Django/FastAPI frameworks.
 
 My main objective is to acquire new knowledge, as well as work experience. I like to give solutions to problems through software.
@@ -66,3 +68,4 @@ You can reach out to me through these social networks:
 <!-- Github Stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=samueltr20&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr )
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samueltr20&theme=gruvbox_duo&ring=D8582C&currStreakNum=FFFFFF&background=09131B)](https://git.io/streak-stats)
