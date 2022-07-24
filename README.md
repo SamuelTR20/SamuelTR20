@@ -17,7 +17,6 @@ You can reach out to me through these social networks:
 [![Gmail badge](https://img.shields.io/badge/-samuel.torresram20@gmail.com-red?logo=gmail&logoColor=white)](mailto:samuel.torresram20@gmail.com)
 
 ### ⚡ Technologies
-
 #### Devops
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
