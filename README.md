@@ -1,4 +1,5 @@
 ### Hi there 👋
+<div align="justify">
 
 I've recently graduated from my __Software Engineering__ degree from [Intituto Tecnológico de Sonora](https://www.itson.mx/Paginas/index.aspx). My main language is __Spanish__, but I also know __English__. I mainly work as __Backend Developer__,  particularly in Django/FastAPI frameworks.
 
@@ -57,6 +58,9 @@ You can reach out to me through these social networks:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white)
 
 
+<div align="center">
 
+---
 <!-- Github Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=samueltr20&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=samueltr20&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr )
+
