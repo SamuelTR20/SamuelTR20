@@ -7,6 +7,7 @@ My main objective is to acquire new knowledge, as well as work experience. I lik
 
 
 You can reach out to me through these social networks:  
+
 [![Instagram badge](https://img.shields.io/badge/-@Samueltr20-ff69b4?logo=instagram&logoColor=white)](https://instagram.com/samueltr20)
 [![Discord badge](https://img.shields.io/badge/-Samuelongo%235212-7289da?logo=Discord&logoColor=white)](https://discordapp.com/users/261051467987812354)
 [![Linkedin badge](https://img.shields.io/badge/-Samueltr-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samueltr20/)
