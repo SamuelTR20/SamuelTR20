@@ -65,5 +65,5 @@ You can reach out to me through these social networks:
 
 ---
 <!-- Github Stats -->
-|![Stats](https://github-readme-stats.vercel.app/api?username=samueltr20&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr ) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samueltr20&theme=gruvbox_duo&ring=D8582C&currStreakNum=FFFFFF&background=09131B)](https://git.io/streak-stats)|
+|![Stats](https://github-readme-stats.vercel.app/api?username=samueltr20&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true ) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samueltr20&theme=gruvbox_duo&ring=D8582C&currStreakNum=FFFFFF&background=09131B&hide_border=true)]|
 | - | - |
