@@ -4,7 +4,7 @@
 
 My name is Samuel Torres, I am 22 years old from Sonora, México 
 
-I've recently graduated from my __Software Engineering__ degree from [Intituto Tecnológico de Sonora](https://www.itson.mx/Paginas/index.aspx). My main language is __Spanish__, but I also know __English__. I mainly work as __Backend Developer__,  particularly in Django/FastAPI frameworks.
+I've recently graduated from my __Software Engineering__ degree from [Instituto Tecnológico de Sonora](https://www.itson.mx/Paginas/index.aspx). My main language is __Spanish__, but I also know __English__. I mainly work as __Backend Developer__,  particularly in Django/FastAPI frameworks.
 
 My main objective is to acquire new knowledge, as well as work experience. I like to give solutions to problems through software.
 
