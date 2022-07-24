@@ -16,22 +16,22 @@ You can reach out to me through these social networks:
 [![Linkedin badge](https://img.shields.io/badge/-Samueltr-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samueltr20/)
 [![Gmail badge](https://img.shields.io/badge/-samuel.torresram20@gmail.com-red?logo=gmail&logoColor=white)](mailto:samuel.torresram20@gmail.com)
 
-## ⚡ Technologies
+#### ⚡ Technologies
 
-### Devops
+##### Devops
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Bitvise SSH](https://img.shields.io/badge/Bitvise_SSH_Client-2185D0?logo=google-cloud&logoColor=white)
 
-### Databases
+##### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 
-### Languages
+##### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -40,7 +40,7 @@ You can reach out to me through these social networks:
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 
-### Frameworks
+##### Frameworks
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
@@ -50,7 +50,7 @@ You can reach out to me through these social networks:
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?&logo=Salesforce&logoColor=white)
 
-### Tools
+##### Tools
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
